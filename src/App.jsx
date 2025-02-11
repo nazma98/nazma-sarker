@@ -1,19 +1,14 @@
-import { Header } from "./components/header";
-import { About } from "./components/About";
-import { Education } from "./components/Education";
-import { Skills } from "./components/Skills";
+import { Header } from './components/header';
+import { Introduction } from './components/Introduction';
+import { About } from './components/About';
+import { Education } from './components/Education';
+import { Skills } from './components/Skills';
+import { Projects } from './components/Projects';
+import { Experience } from './components/Experience';
+import { Contact } from './components/Contact';
+import { Footer } from './components/Footer';
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faDiscord,
-  faFacebook,
-  faGithub,
-  faLinkedin,
-  faTwitter,
-} from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
-
-import "./App.css";
+import './App.css';
 
 function App() {
   return (
