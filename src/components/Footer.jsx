@@ -4,7 +4,7 @@ import {
   faFacebook,
   faGithub,
   faLinkedin,
-  faTwitter,
+  faSquareXTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 
@@ -51,7 +51,7 @@ export function Footer() {
                               md:text-2xl md:active:bg-[#aaaaaa] md:active:[text-shadow:0_0_10px_#ffffff] md:active:text-black
                               lg:hover:bg-[#aaaaaa] lg:hover:[box-shadow:0_0_10px_#ffffff] lg:hover:text-black
                               transition-all duration-300 ease-in-out"
-                icon={faTwitter}
+                icon={faSquareXTwitter}
               />
             </a>
           </div>
