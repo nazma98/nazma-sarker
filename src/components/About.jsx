@@ -27,7 +27,7 @@ export function About() {
             className="w-[50%] h-[50%] object-cover rounded-full 
                         ring-2 ring-[#00b1b1] bg-[#0a192f] m-auto
                         lg:w-[80%]"
-            src="images/blank-pp.jpg"
+            src="assets/images/blank-pp.jpg"
             alt=""
           />
         </div>
