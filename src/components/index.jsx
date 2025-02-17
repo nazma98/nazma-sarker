@@ -1,1 +1,9 @@
-// export * from './compo'
+export * from './header';
+export * from './About';
+export * from './Contact';
+export * from './Education';
+export * from './Experience';
+export * from './Introduction';
+export * from './Projects';
+export * from './Skills';
+export * from './Footer';
