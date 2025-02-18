@@ -73,9 +73,7 @@ export function Education() {
               })}
             </ul>
           </p>
-          <p className='text-sm mt-2 text-justify'>
-            CGPA of 1st semester 3.85/4.0
-          </p>
+          <p className='text-sm mt-2 text-justify'>CGPA 3.9/4.0</p>
         </div>
 
         <div
