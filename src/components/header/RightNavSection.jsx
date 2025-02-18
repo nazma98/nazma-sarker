@@ -42,10 +42,10 @@ export function RightNavSection() {
 function NavMenuItem({ url, name }) {
   return (
     <li
-      key={navItem.name}
+      key={name}
       className='duration-300 active:scale-105 active:shadow-lg active:text-[#00b1b1] lg:hover:scale-110 lg:hover:text-[#00b1b1] lg:hover:[text-shadow:0_0_15px_#00b1b1]'
     >
-      <a href={navItem.url}>{navItem.name}</a>
+      <a href={url}>{name}</a>
     </li>
   );
 }
