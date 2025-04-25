@@ -12,10 +12,8 @@ export function Skills() {
       </div>
       <div className="w-[80%] m-auto lg:flex lg:items-center">
         <div className="flex flex-col text-justify items-center justify-center  mb-6 md:text-xl md:p-8 lg:w-[50%] ">
-          I am Proficient in Python, Java, C, and C++ for problem solving
-          and versatile software development. Also familiar with web
-          frameworks such as Laravel and Django for building robust web
-          applications. I have experiences with Linux for development and
+          I am Proficient in Go, Java, C, and C++ for problem solving
+          and versatile software development. I have experiences with Linux for development and
           scripting.
         </div>
         <div
@@ -25,27 +23,27 @@ export function Skills() {
         >
           <img
             className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
+            src="assets/images/Go-Logo_Blue.png"
+            alt=""
+          />
+          <img
+            className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
+            src="assets/images/c-logo.png"
+            alt=""
+          />
+          <img
+            className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
             src="assets/images/HTML5_logo.png"
             alt=""
           />
           <img
-            className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
-            src="assets/images/css-logo-tr.png"
-            alt=""
-          />
-          <img
-            className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
+            className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out  md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
             src="assets/images/js-logo.png"
             alt=""
           />
           <img
             className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out  md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
-            src="assets/images/bootstrap-logo.png"
-            alt=""
-          />
-          <img
-            className="w-8 h-8 object-contain rounded-md transition-all duration-200 ease-in-out  md:w-10 md:h-10 active:bg-[#00b1b1ce] active:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:bg-[#00b1b1ce] lg:hover:[box-shadow:0_0_15px_5px_#00b1b1] lg:hover:scale-110"
-            src="assets/images/c-logo.png"
+            src="assets/images/css-logo-tr.png"
             alt=""
           />
           <img
