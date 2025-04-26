@@ -4,15 +4,15 @@ import { faLink } from '@fortawesome/free-solid-svg-icons';
 
 const projectData = [
   {
-    name: 'Rock-Paper-Scissors',
+    name: 'Folder-Organizer',
     description:
-      'A simple interactive hand game often used as a decision-making tool or for fun.',
-    tools: ['HTML', 'CSS', 'JavaScript'],
-    githubRepo: 'https://github.com/nazma98/rock-paper-scissor-js',
-    liveLink: 'https://rock-paper-scissors-game-ns.netlify.app/',
+      'A lightweight Go tool that automatically organizes files into folders based on their extensions.',
+    tools: ['Golang'],
+    githubRepo: 'https://github.com/nazma98/go-projects/tree/main/github.com/nazma98/basic-projects/folder-organizer',
+    liveLink: '',
   },
   {
-    name: 'Project 2',
+    name: 'Rock-Paper-Scissors',
     description:
       'A simple interactive hand game often used as a decision-making tool or for fun.',
     tools: ['HTML', 'CSS', 'JavaScript'],
